@@ -1,2 +1,3 @@
 #!/bin/bash
-/bin/ls -1a
+ /bin/ls -la
+
