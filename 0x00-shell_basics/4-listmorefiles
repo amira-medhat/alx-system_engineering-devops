@@ -1,2 +1,2 @@
 #!/bin/bash
-/bin/ls -a1
+/bin/ls -1a
