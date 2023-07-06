@@ -1,0 +1,2 @@
+A command shows the current path
+
