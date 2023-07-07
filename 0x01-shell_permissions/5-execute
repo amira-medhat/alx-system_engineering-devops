@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 100 some_file
+chmod 100 hello
