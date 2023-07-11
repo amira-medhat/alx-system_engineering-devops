@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -lt --time=ctime | grep -v '^d' | head -n 11 | awk '{print $NF}'
